@@ -1,5 +1,8 @@
 # Fastapi Web Starter
 
+Updated: 2023-06-04
+Modified for tutorial practice
+
 Updated: 2022-01-18
 
 [https://shinichiokada.medium.com/](https://shinichiokada.medium.com/) ([Building a Website Starter with FastAPI](https://levelup.gitconnected.com/building-a-website-starter-with-fastapi-92d077092864)).
